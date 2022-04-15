@@ -1,0 +1,30 @@
+﻿  4.ArrayAndPointer.cpp
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(12,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'float *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(34,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(34,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(52,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(53,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(56,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(57,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(59,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(60,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(62,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(63,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(73,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[3]'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(73,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(75,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(77,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(80,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(103,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(114,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(202,8): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(207,8): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(212,8): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(220,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\Game Programing\220407\4.ArrayAndPointer\4.ArrayAndPointer\4.ArrayAndPointer.cpp(64): warning C4717: 'FunctionAndPointerMain': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  4.ArrayAndPointer.vcxproj -> D:\Game Programing\220407\4.ArrayAndPointer\Debug\4.ArrayAndPointer.exe
